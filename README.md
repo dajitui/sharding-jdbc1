@@ -1,1 +1,1 @@
-# sharding-jdbc1
+项目是springboot整合sharding-jdbc单库分表demo，包括取模分表，自定义分表.sql语句在resourxe下db文件
